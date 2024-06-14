@@ -17,7 +17,7 @@ secret:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: Deepak123
+    password: root
     username: root
   jpa:
     hibernate:
